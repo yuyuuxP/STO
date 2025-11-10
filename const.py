@@ -1,0 +1,2 @@
+H_SEPARATOR = '='
+V_SEPARATOR = ' | '
